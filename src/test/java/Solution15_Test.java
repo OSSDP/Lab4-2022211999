@@ -14,7 +14,7 @@ import static org.junit.Assert.assertEquals;
  *      v1=v2
  *  以上各划分均又分为有无前导零
  */
-public class L2022211999_15_Test {
+public class Solution15_Test {
     Solution s = new Solution();
 
     /**
